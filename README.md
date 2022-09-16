@@ -6,7 +6,7 @@
 - 🌱 Estou estudando JavaScript...
 - 🥰
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/israelsilvaa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=israelsilvaa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=israelsilvaa&layout=compact&langs_count=7&theme=dracula"/>
