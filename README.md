@@ -1,10 +1,14 @@
-### Olá, Mundo! Eu sou o Israel silva👋
+```php
+<?php
+echo "Olá, Mundo! Eu sou o Israel silva👋";
+?>
+```
 
 
 
-- 🔭 Hoje eu trabalho com front-end(PHP, HTML, CCS3) ...
-- 🌱 Estou estudando  Js, Arquitetura MVC, Laravel...
-- 🥰
+- 🔭 Hoje estou trabalhando com back-end, olha só🤓: PHP, LARAVEL, Cache(Redis), APIRest, HTML, CCS3, JS, MySQL, PostGreSQL...
+- 🌱 Sempre estudando...
+- 👨‍💻🥰
 
 <div align="left">
   <a href="https://github.com/israelsilvaa">
