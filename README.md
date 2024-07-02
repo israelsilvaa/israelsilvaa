@@ -15,7 +15,7 @@ echo "Olá, Mundo! Eu sou o Israel silva👋";
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="laravel" height="40" width="40" src="/images/laravel-svgrepo-com.png" style="pointer-events: none;">
-  <img align="center" alt="php" height="40" width="40" src="/images/php-logo-svgrepo-com.png" style="pointer-events: none;">
+  <img align="center" alt="php" height="40" width="40" src="/images/php-svgrepo-com.png" style="pointer-events: none;">
   <img align="center" alt="vuejs" height="40" width="40" src="/images/vue-9-logo-svgrepo-com.png" style="pointer-events: none;">
   <img align="center" alt="html5" height="40" width="40" src="/images/html-5-svgrepo-com.png" style="pointer-events: none;">
   <img align="center" alt="css3" height="40" width="40" src="/images/css-3-svgrepo-com.png" style="pointer-events: none;">
@@ -23,7 +23,7 @@ echo "Olá, Mundo! Eu sou o Israel silva👋";
   <img align="center" alt="mysql" height="r0" width="40" src="/images/mysql-logo-svgrepo-com.png" style="pointer-events: none;">
   <img align="center" alt="postgresql" height="40" width="40" src="/images/postgresql-logo-svgrepo-com.png" style="pointer-events: none;">
   <img align="center" alt="redis" height="40" width="40" src="/images/redis-svgrepo-com.png" style="pointer-events: none;">
-  <img align="center" alt="api" height="40" width="40" src="/images/api-settings-svgrepo-com.png" style="pointer-events: none;">
+  <img align="center" alt="api" height="40" width="40" src="/images/api-svgrepo-com.png" style="pointer-events: none;">
   <img align="center" alt="python" height="40" width="40" src="/images/python-svgrepo-com.png" style="pointer-events: none;">
   <img align="center" alt="git" height="40" width="40" src="/images/git-svgrepo-com.png" style="pointer-events: none;">
 </div>
